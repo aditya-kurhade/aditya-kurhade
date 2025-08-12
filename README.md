@@ -1,7 +1,7 @@
 <h1>Hii👋 I'm Aditya Kurhade</h1>
 
 <h2>💫 About Me</h2>
-💻 Exploring Web2 technologies and data science to create innovative solutions.<br>💬 Open to discussions and exchanging ideas to innovate.<br>🤝 Always eager to collaborate and work together on exciting projects.<br>📫 Reach me at adityakurhade1000@gmail.com - lets connect
+💻 Exploring Web3 technologies and data science to create innovative solutions.<br>💬 Open to discussions and exchanging ideas to innovate.<br>🤝 Always eager to collaborate and work together on exciting projects.<br>📫 Reach me at adityakurhade1000@gmail.com - lets connect
 
 
 ## 🌐 Socials:
